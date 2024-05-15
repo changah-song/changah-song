@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I've worked with some cool technologies and always try to learn more and more with each new project!
+
+**Software Development**
+React Native, Expo, NodeJS, SQLite, Flask, HTML/CSS, Git
+
+**Machine Learning**
+Python, Tensorflow, Recommender Systems, NLP
+
+Take a look at some of my personal projects below and my ML [blog](https://medium.com/@paul0).
+
 <!--
 **paul-song-minerva/paul-song-minerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
